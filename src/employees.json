@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "James Dean",
+      "title": "Fry Cook",
+      "department": "Cook",
+      "office": "A Pineapple Under the Sea",
+      "email": "jamesdean@corp.com",
+      "phone": "234-567-8912"
+    },
+    {
+      "id": 2,
+      "name": "Eve Polantri",
+      "title": "Analyst",
+      "department": "Hidden",
+      "office": "London",
+      "email": "evepolastri@secret.com",
+      "phone": "345-678-9123"
+    },
+    {
+      "id": 3,
+      "name": "Oksana Villanelle",
+      "title": "Assasin",
+      "department": "Depends on the Day",
+      "office": "Amsterdam",
+      "email": "oksanavillan.com",
+      "phone": "456-789-1234"
+    },
+    {
+      "id": 4,
+      "name": "Michael Sean",
+      "title": "Master of the Universe",
+      "department": "God's Angel",
+      "office": "Earth",
+      "email": "michaelsean@angel.god",
+      "phone": "111-111-2222"
+    },
+    {
+      "id": 5,
+      "name": "Thomas Goode",
+      "title": "Analyst",
+      "department": "Hidden",
+      "office": "Paris",
+      "email": "thomasgoode@agent.com",
+      "phone": "536-987-4244"
+    },
+    {
+      "id": 6,
+      "name": "Sam Smith",
+      "title": "FBI",
+      "department": "Homeland",
+      "office": "Washington, DC",
+      "email": "samsmith.com",
+      "phone": "472-874-8437"
+    },
+    {
+      "id": 7,
+      "name": "Michael J Fox",
+      "title": "Traveler",
+      "department": "Mechanic",
+      "office": "A flying car",
+      "email": "michaelfox@traveling.com",
+      "phone": "891-872-754"
+    },
+    {
+      "id": 8,
+      "name": "Eve Cline",
+      "title": "Fashion Designer",
+      "department": "Vogue",
+      "office": "London",
+      "email": "evecline@secret.com",
+      "phone": "534-894-7862"
+    },
+    {
+      "id": 9,
+      "name": "Sam Smallville",
+      "title": "Superman",
+      "department": "Earth",
+      "office": "Iowa",
+      "email": "samsameville.com",
+      "phone": "564-798-3463"
+    },
+    {
+      "id": 10,
+      "name": "James Smith",
+      "title": "Author",
+      "department": "Home",
+      "office": "Around the world",
+      "email": "james@smith.com",
+      "phone": "876-324-1094"
+    },
+    {
+      "id": 11,
+      "name": "Thomas Hardy",
+      "title": "TV Anchor",
+      "department": "CNBC",
+      "office": "New York",
+      "email": "Thomas@NBC.com",
+      "phone": "562-463-0872"
+    },
+    {
+      "id": 12,
+      "name": "Sandra Oh",
+      "title": "Doctor",
+      "department": "Grey's Anatomy",
+      "office": "Los Angeles",
+      "email": "sandraoh@greys.com",
+      "phone": "357-912-4680"
+    }
+  ]
+  
