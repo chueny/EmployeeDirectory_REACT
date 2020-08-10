@@ -14,7 +14,7 @@
       "title": "Analyst",
       "department": "Hidden",
       "office": "London",
-      "email": "evepolastri@secret.com",
+      "email": "evepolastri@corp.com",
       "phone": "345-678-9123"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Assasin",
       "department": "Depends on the Day",
       "office": "Amsterdam",
-      "email": "oksanavillan.com",
+      "email": "oksanavillan@corp.com",
       "phone": "456-789-1234"
     },
     {
@@ -32,8 +32,8 @@
       "title": "Master of the Universe",
       "department": "God's Angel",
       "office": "Earth",
-      "email": "michaelsean@angel.god",
-      "phone": "111-111-2222"
+      "email": "michaelsean@corp.com",
+      "phone": "416-709-2785"
     },
     {
       "id": 5,
@@ -41,7 +41,7 @@
       "title": "Analyst",
       "department": "Hidden",
       "office": "Paris",
-      "email": "thomasgoode@agent.com",
+      "email": "thomasgoode@corp.com",
       "phone": "536-987-4244"
     },
     {
@@ -50,7 +50,7 @@
       "title": "FBI",
       "department": "Homeland",
       "office": "Washington, DC",
-      "email": "samsmith.com",
+      "email": "samsmith@corp.com",
       "phone": "472-874-8437"
     },
     {
@@ -59,8 +59,8 @@
       "title": "Traveler",
       "department": "Mechanic",
       "office": "A flying car",
-      "email": "michaelfox@traveling.com",
-      "phone": "891-872-754"
+      "email": "michaelfox@corp.com",
+      "phone": "891-872-7548"
     },
     {
       "id": 8,
@@ -68,7 +68,7 @@
       "title": "Fashion Designer",
       "department": "Vogue",
       "office": "London",
-      "email": "evecline@secret.com",
+      "email": "evecline@corp.com",
       "phone": "534-894-7862"
     },
     {
@@ -77,7 +77,7 @@
       "title": "Superman",
       "department": "Earth",
       "office": "Iowa",
-      "email": "samsameville.com",
+      "email": "samsameville@corp.com",
       "phone": "564-798-3463"
     },
     {
@@ -86,7 +86,7 @@
       "title": "Author",
       "department": "Home",
       "office": "Around the world",
-      "email": "james@smith.com",
+      "email": "james@corp.com",
       "phone": "876-324-1094"
     },
     {
@@ -95,7 +95,7 @@
       "title": "TV Anchor",
       "department": "CNBC",
       "office": "New York",
-      "email": "Thomas@NBC.com",
+      "email": "Thomas@corp.com",
       "phone": "562-463-0872"
     },
     {
@@ -104,7 +104,7 @@
       "title": "Doctor",
       "department": "Grey's Anatomy",
       "office": "Los Angeles",
-      "email": "sandraoh@greys.com",
+      "email": "sandraoh@corp.com",
       "phone": "357-912-4680"
     }
   ]
