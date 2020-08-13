@@ -1,0 +1,15 @@
+.searchForm {
+    margin: 20px;
+}
+
+.searchForm input{
+    border-radius: 5px;
+    border-color: grey;
+    border-width: thin;
+
+}
+
+.searchForm p {
+ font-size: 20px;
+
+}

@@ -1,6 +1,5 @@
 import React from 'react';
 import Employee from "./components/Employee";
-// import Search from "./components/Search";
 import Navbar from "./components/Navbar";
 import employees from "./employees.json";
 
@@ -9,7 +8,6 @@ function App () {
   return (
     <div className="container">
       <Navbar />
-      {/* <Search />   WE MAY NEED TO REMOVE THIS COMPONENT*/}
       <Employee employees={employees} />
     </div>
   )
