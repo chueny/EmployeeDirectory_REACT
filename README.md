@@ -9,7 +9,7 @@ Run npm start
 # Link to Application 
 Link to repository on GitHub: https://chueny.github.io/React_EmployeeDirectory/
 
-Link to Heroku: 
+Link to deployment: https://5f35c8dbf6a4cb0007b2dd44--frosty-blackwell-263c60.netlify.app/ 
 
 # Screen Shot
 ![Screen Shot 2020-08-12 at 10 53 34 PM](https://user-images.githubusercontent.com/17972802/90092512-b712a100-dcee-11ea-9b44-f5ac6e89875e.png)
